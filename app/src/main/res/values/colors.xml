@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink1">#FF92AA</color>
+    <color name="pink2">#FF92AA</color>
+    <color name="pink3">#FF6486</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="abu">#5A5A5A</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ungumuda">#A687D8</color>
+</resources>
